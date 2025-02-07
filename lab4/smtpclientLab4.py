@@ -10,7 +10,7 @@ from email.mime.application import MIMEApplication
 email_sender = ''
 #Use the following link to generate an app password
 #https://myaccount.google.com/apppasswords
-#something new here
+
 
 app_password = ''
 email_receiver = ''
